@@ -61,20 +61,21 @@ _Last updated: 2025-08-26_
 ## 📁 Repository Layout
 
 
+``` 
 awesome-prompt-structure/
-├── README.md                 # you are here
-├── languages/                # specs & examples for each language
-│   ├── smile.md
-│   ├── appl.md
-│   ├── poml.md
-│   ├── promptml.md
-│   ├── dspy.md
-│   ├── guidance.md
-│   └── lmql.md
-├── frameworks/               # prompt writing frameworks
-├── tools/                    # tool-specific docs & install guides
-└── examples/                 # runnable demos
-
+- README.md                  # you are here
+- languages/                 # specs & examples for each language
+  - smile.md
+  - appl.md
+  - poml.md
+  - promptml.md
+  - dspy.md
+  - guidance.md
+  - lmql.md
+- frameworks/                # prompt writing frameworks
+- tools/                     # tool-specific docs & install guides
+- examples/                  # runnable demos
+```
 ---
 
 ## 🤝 Contributing
