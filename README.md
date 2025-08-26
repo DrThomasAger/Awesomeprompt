@@ -2,6 +2,7 @@
 > The awesome curated collection of **prompt structuring languages**, **frameworks**, and **tooling** for modern prompt engineering.  
 
 By [Dr. Thomas Ager](https://www.linkedin.com/in/drprompt?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app) creator of the prompt instruction language [(: Smile](https://www.github.com/drthomasager/smile)
+
 ---
 
 ## 🚀 Quick Start
