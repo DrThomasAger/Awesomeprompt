@@ -1,5 +1,5 @@
 # Awesome Prompt Structure  
-> The most curated collection of **prompt structuring languages**, **frameworks**, and **tooling** for modern prompt engineering.  
+> The awesome curated collection of **prompt structuring languages**, **frameworks**, and **tooling** for modern prompt engineering.  
 _Last updated: 2025-08-26_
 
 ---
